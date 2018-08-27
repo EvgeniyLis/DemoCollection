@@ -1,0 +1,2 @@
+Rectangle [a=34, b=3, getPerim()=74, getSquare()=102]
+Rectangle [a=65, b=3, getPerim()=136, getSquare()=195]
